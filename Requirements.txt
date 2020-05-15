@@ -1,0 +1,4 @@
+# Please download tf-nightly
+# Use below pip commands to install tf-nightly
+
+!pip install tf-nightly
